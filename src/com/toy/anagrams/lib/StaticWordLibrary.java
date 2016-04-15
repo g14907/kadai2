@@ -56,6 +56,7 @@ final class StaticWordLibrary extends WordLibrary {
         "facilitate",
         "fragment",
         "hexadecimal",
+        "humberger",
         "implementation",
         "indistinguishable",
         "inheritance",
@@ -84,7 +85,7 @@ final class StaticWordLibrary extends WordLibrary {
         "traditional"};
 
     private static final String[] SCRAMBLED_WORD_LIST = {
-        "batsartcoin",
+        "btasartcoin",
         "maibuguos",
         "ratimhteci",
         "abkclssha",
@@ -102,6 +103,7 @@ final class StaticWordLibrary extends WordLibrary {
         "xerpseisno",
         "aficilatet",
         "rfgaemtn",
+        "hbrrmegeu",
         "ehaxedicalm",
         "milpmeneatitno",
         "niidtsniugsiahleb",
